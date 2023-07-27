@@ -22,6 +22,8 @@
 <h1><b>GitHub Activity</h1></b>
 
 <!--START_SECTION:activity-->
+`[27/07 15:27]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.2.1`](https://github.com/nikosdaridis/colorpal/releases/tag/v1.2.1) in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
+`[27/07 15:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
 `[27/07 13:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/nikosdaridis.github.io](https://github.com/nikosdaridis/nikosdaridis.github.io)  
 `[25/07 11:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
 `[23/07 18:20]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.2.0`](https://github.com/nikosdaridis/colorpal/releases/tag/v1.2.0) in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
@@ -30,11 +32,11 @@
 `[21/07 11:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
 `[19/07 16:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [nikosdaridis/nikosdaridis](https://github.com/nikosdaridis/nikosdaridis)  
 `[19/07 16:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [nikosdaridis/github-activity-readme](https://github.com/nikosdaridis/github-activity-readme)  
-`[19/07 16:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/nikosdaridis](https://github.com/nikosdaridis/nikosdaridis)  
-`[19/07 16:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [nikosdaridis/github-activity-readme](https://github.com/nikosdaridis/github-activity-readme)  
 
 <details><summary>Show More</summary>
 
+`[19/07 16:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/nikosdaridis](https://github.com/nikosdaridis/nikosdaridis)  
+`[19/07 16:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [nikosdaridis/github-activity-readme](https://github.com/nikosdaridis/github-activity-readme)  
 `[19/07 15:01]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.1.2`](https://github.com/nikosdaridis/colorpal/releases/tag/v1.1.2) in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
 `[19/07 14:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
 `[15/07 22:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/github-activity-readme](https://github.com/nikosdaridis/github-activity-readme)  
