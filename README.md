@@ -20,6 +20,7 @@
 <h1><b>GitHub Activity</h1></b>
 
 <!--START_SECTION:activity-->
+`[10/08 21:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/nikosdaridis.github.io](https://github.com/nikosdaridis/nikosdaridis.github.io)  
 `[10/08 08:33]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.2.3`](https://github.com/nikosdaridis/colorpal/releases/tag/v1.2.3) in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
 `[10/08 08:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
 `[10/08 07:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/nikosdaridis.github.io](https://github.com/nikosdaridis/nikosdaridis.github.io)  
@@ -29,10 +30,10 @@
 `[07/08 10:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [nikosdaridis/nikosdaridis.github.io](https://github.com/nikosdaridis/nikosdaridis.github.io)  
 `[06/08 21:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)  
 `[06/08 21:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/nikosdaridis](https://github.com/nikosdaridis/nikosdaridis)  
-`[06/08 21:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [nikosdaridis/nikosdaridis.github.io](https://github.com/nikosdaridis/nikosdaridis.github.io)  
 
 <details><summary>Show More</summary>
 
+`[06/08 21:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [nikosdaridis/nikosdaridis.github.io](https://github.com/nikosdaridis/nikosdaridis.github.io)  
 `[06/08 13:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/nikosdaridis](https://github.com/nikosdaridis/nikosdaridis)  
 `[06/08 13:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/nikosdaridis.github.io](https://github.com/nikosdaridis/nikosdaridis.github.io)  
 `[04/08 20:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
