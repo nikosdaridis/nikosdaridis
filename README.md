@@ -174,8 +174,6 @@
 `[13/06 06:58]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/NikosDaridis/NikosDaridis/tree/main) in [NikosDaridis/NikosDaridis](https://github.com/NikosDaridis/NikosDaridis)  
 `[13/06 06:58]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [NikosDaridis/NikosDaridis](https://github.com/NikosDaridis/NikosDaridis)  
 `[08/06 04:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [NikosDaridis/NikosDaridis.github.io](https://github.com/NikosDaridis/NikosDaridis.github.io)  
-`[05/06 20:00]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [NikosDaridis/NikosDaridis.github.io](https://github.com/NikosDaridis/NikosDaridis.github.io)  
-`[05/06 20:00]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/NikosDaridis/NikosDaridis.github.io/tree/main) in [NikosDaridis/NikosDaridis.github.io](https://github.com/NikosDaridis/NikosDaridis.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
