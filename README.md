@@ -131,7 +131,7 @@
 `[16/06 17:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [NikosDaridis/NikosDaridis](https://github.com/NikosDaridis/NikosDaridis)  
 `[16/06 15:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [NikosDaridis/NikosDaridis.github.io](https://github.com/NikosDaridis/NikosDaridis.github.io)  
 `[16/06 13:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [NikosDaridis/Space-Cowboys](https://github.com/NikosDaridis/Space-Cowboys)  
-`[16/06 09:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [NikosDaridis/NikosDaridis.github.io](https://github.com/NikosDaridis/NikosDaridis.github.io)  
+`[16/06 09:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [NikosDaridis/NikosDaridis.github.io](https://github.com/NikosDaridis/NikosDaridis.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
