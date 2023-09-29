@@ -98,11 +98,6 @@
 `[03/07 12:03]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/nikosdaridis/products-api/tree/main) in [nikosdaridis/products-api](https://github.com/nikosdaridis/products-api)  
 `[03/07 12:03]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [nikosdaridis/products-api](https://github.com/nikosdaridis/products-api)  
 `[02/07 07:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
-`[29/06 00:23]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.1.0`](https://github.com/nikosdaridis/colorpal/releases/tag/v1.1.0) in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
-`[29/06 00:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
-`[28/06 08:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/nikosdaridis](https://github.com/nikosdaridis/nikosdaridis)  
-`[28/06 06:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
-`[28/06 06:40]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2890`](https://github.com//anuraghazra/github-readme-stats/issues/2890 'Broken images') in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)  
 
 </details>
 <!--END_SECTION:activity-->
