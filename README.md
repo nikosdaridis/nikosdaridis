@@ -23,7 +23,7 @@
 <h1><b>GitHub Activity</h1></b>
 
 <!--START_SECTION:activity-->
-`[09/11 11:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ioannis-papikas/collegelink-mellon-bootcamp](https://github.com/ioannis-papikas/collegelink-mellon-bootcamp)  
+`[09/11 11:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [ioannis-papikas/collegelink-mellon-bootcamp](https://github.com/ioannis-papikas/collegelink-mellon-bootcamp)  
 `[09/11 09:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`ft/nikos-daridis`](https://github.com/ioannis-papikas/collegelink-mellon-bootcamp/tree/ft/nikos-daridis) in [ioannis-papikas/collegelink-mellon-bootcamp](https://github.com/ioannis-papikas/collegelink-mellon-bootcamp)  
 `[08/11 22:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [nikosdaridis/nikosdaridis.github.io](https://github.com/nikosdaridis/nikosdaridis.github.io)  
 `[26/10 19:52]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.3.4`](https://github.com/nikosdaridis/colorpal/releases/tag/v1.3.4) in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
