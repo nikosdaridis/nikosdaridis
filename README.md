@@ -23,7 +23,9 @@
 <h1><b>GitHub Activity</h1></b>
 
 <!--START_SECTION:activity-->
-`[09/11 11:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [ioannis-papikas/collegelink-mellon-bootcamp](https://github.com/ioannis-papikas/collegelink-mellon-bootcamp)  
+`[09/11 13:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ioannis-papikas/collegelink-mellon-bootcamp](https://github.com/ioannis-papikas/collegelink-mellon-bootcamp)  
+`[09/11 13:04]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#15`](https://github.com//ioannis-papikas/collegelink-mellon-bootcamp/pull/15 'Pull Request') in [ioannis-papikas/collegelink-mellon-bootcamp](https://github.com/ioannis-papikas/collegelink-mellon-bootcamp)  
+`[09/11 12:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [ioannis-papikas/collegelink-mellon-bootcamp](https://github.com/ioannis-papikas/collegelink-mellon-bootcamp)  
 `[09/11 09:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`ft/nikos-daridis`](https://github.com/ioannis-papikas/collegelink-mellon-bootcamp/tree/ft/nikos-daridis) in [ioannis-papikas/collegelink-mellon-bootcamp](https://github.com/ioannis-papikas/collegelink-mellon-bootcamp)  
 `[08/11 22:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [nikosdaridis/nikosdaridis.github.io](https://github.com/nikosdaridis/nikosdaridis.github.io)  
 `[26/10 19:52]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.3.4`](https://github.com/nikosdaridis/colorpal/releases/tag/v1.3.4) in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
@@ -31,11 +33,11 @@
 `[03/10 09:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/nikosdaridis](https://github.com/nikosdaridis/nikosdaridis)  
 `[02/10 11:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/nikosdaridis.github.io](https://github.com/nikosdaridis/nikosdaridis.github.io)  
 `[01/10 13:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
-`[17/09 13:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/nikosdaridis.github.io](https://github.com/nikosdaridis/nikosdaridis.github.io)  
-`[12/09 21:15]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.3.3`](https://github.com/nikosdaridis/colorpal/releases/tag/v1.3.3) in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
 
 <details><summary>Show More</summary>
 
+`[17/09 13:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/nikosdaridis.github.io](https://github.com/nikosdaridis/nikosdaridis.github.io)  
+`[12/09 21:15]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.3.3`](https://github.com/nikosdaridis/colorpal/releases/tag/v1.3.3) in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
 `[12/09 21:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
 `[07/09 05:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/nikosdaridis.github.io](https://github.com/nikosdaridis/nikosdaridis.github.io)  
 `[05/09 13:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
