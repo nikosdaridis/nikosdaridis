@@ -23,7 +23,7 @@
 
 <div align="center">
     <a href="https://leetcode.com/nikos_daridis/" target="_blank">
-        <img alt="Nikos Daridis LeetCode Stats" src="https://leetcard.jacoblin.cool/nikos_daridis?ext=activity" />
+        <img alt="Nikos Daridis LeetCode Stats" src="https://leetcard.jacoblin.cool/nikos_daridis?ext=heatmap" width="400px"/>
     </a>
 </div>
 
