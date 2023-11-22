@@ -71,7 +71,7 @@
 `[26/08 16:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [reduxjs/redux](https://github.com/reduxjs/redux)  
 `[23/08 21:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/nikosdaridis.github.io](https://github.com/nikosdaridis/nikosdaridis.github.io)  
 `[23/08 13:56]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.3.0`](https://github.com/nikosdaridis/colorpal/releases/tag/v1.3.0) in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
-`[23/08 13:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
+`[23/08 13:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
 
 </details>
 <!--END_SECTION:activity-->
