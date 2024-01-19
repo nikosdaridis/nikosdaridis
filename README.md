@@ -35,6 +35,7 @@
 <h1 align="center"><b>GitHub Activity</b></h1>
 
 <!--START_SECTION:activity-->
+`[19/01 18:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/nikosdaridis.github.io](https://github.com/nikosdaridis/nikosdaridis.github.io)  
 `[17/01 17:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
 `[14/01 12:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/nikosdaridis.github.io](https://github.com/nikosdaridis/nikosdaridis.github.io)  
 `[12/12 13:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dotnet/maui](https://github.com/dotnet/maui)  
@@ -44,10 +45,10 @@
 `[04/12 16:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nikosdaridis/ebanking-asp-net-core](https://github.com/nikosdaridis/ebanking-asp-net-core)  
 `[04/12 16:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/ebanking-asp-net-core](https://github.com/nikosdaridis/ebanking-asp-net-core)  
 `[04/12 15:26]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/nikosdaridis/ebanking-asp-net-core/tree/main) in [nikosdaridis/ebanking-asp-net-core](https://github.com/nikosdaridis/ebanking-asp-net-core)  
-`[04/12 15:26]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [nikosdaridis/ebanking-asp-net-core](https://github.com/nikosdaridis/ebanking-asp-net-core)  
 
 <details><summary>Show More</summary>
 
+`[04/12 15:26]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [nikosdaridis/ebanking-asp-net-core](https://github.com/nikosdaridis/ebanking-asp-net-core)  
 `[27/11 20:59]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.3.5`](https://github.com/nikosdaridis/colorpal/releases/tag/v1.3.5) in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
 `[27/11 20:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
 `[19/11 14:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [nikosdaridis/nikosdaridis](https://github.com/nikosdaridis/nikosdaridis)  
