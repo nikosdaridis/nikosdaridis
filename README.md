@@ -64,8 +64,7 @@
 `[11/11 21:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
 `[09/11 13:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ioannis-papikas/collegelink-mellon-bootcamp](https://github.com/ioannis-papikas/collegelink-mellon-bootcamp)  
 `[09/11 13:04]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#15`](https://github.com//ioannis-papikas/collegelink-mellon-bootcamp/pull/15 'Pull Request') in [ioannis-papikas/collegelink-mellon-bootcamp](https://github.com/ioannis-papikas/collegelink-mellon-bootcamp)  
-`[09/11 12:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [ioannis-papikas/collegelink-mellon-bootcamp](https://github.com/ioannis-papikas/collegelink-mellon-bootcamp)  
-`[09/11 09:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`ft/nikos-daridis`](https://github.com/ioannis-papikas/collegelink-mellon-bootcamp/tree/ft/nikos-daridis) in [ioannis-papikas/collegelink-mellon-bootcamp](https://github.com/ioannis-papikas/collegelink-mellon-bootcamp)  
+`[09/11 12:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ioannis-papikas/collegelink-mellon-bootcamp](https://github.com/ioannis-papikas/collegelink-mellon-bootcamp)  
 
 </details>
 <!--END_SECTION:activity-->
