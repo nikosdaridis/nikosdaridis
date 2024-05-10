@@ -65,7 +65,6 @@
 `[28/02 19:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [afriscic/BarcodeScanning.Native.Maui](https://github.com/afriscic/BarcodeScanning.Native.Maui)  
 `[10/02 22:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/nikosdaridis.github.io](https://github.com/nikosdaridis/nikosdaridis.github.io)  
 `[10/02 11:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
-`[09/02 17:38]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.3.6`](https://github.com/nikosdaridis/colorpal/releases/tag/v1.3.6) in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
 
 </details>
 <!--END_SECTION:activity-->
