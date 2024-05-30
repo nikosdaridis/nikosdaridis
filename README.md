@@ -27,6 +27,8 @@
 <h1 align="center"><b>GitHub Activity</b></h1>
 
 <!--START_SECTION:activity-->
+`[30/05 19:18]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.3.7`](https://github.com/nikosdaridis/colorpal/releases/tag/v1.3.7) in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
+`[30/05 19:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
 `[26/05 17:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [nikosdaridis/nikosdaridis.github.io](https://github.com/nikosdaridis/nikosdaridis.github.io)  
 `[18/05 12:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/osrs-prices-wiki](https://github.com/nikosdaridis/osrs-prices-wiki)  
 `[17/05 20:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [nikosdaridis/qr-barcode-maui-blazor-hybrid](https://github.com/nikosdaridis/qr-barcode-maui-blazor-hybrid)  
@@ -35,11 +37,11 @@
 `[01/05 14:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lishewen/Blazor.ECharts](https://github.com/lishewen/Blazor.ECharts)  
 `[01/05 14:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [nikosdaridis/osrs-prices-wiki](https://github.com/nikosdaridis/osrs-prices-wiki)  
 `[27/04 22:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apache/echarts](https://github.com/apache/echarts)  
-`[26/04 15:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [nikosdaridis/osrs-prices-wiki](https://github.com/nikosdaridis/osrs-prices-wiki)  
-`[21/04 00:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [radzenhq/radzen-blazor](https://github.com/radzenhq/radzen-blazor)  
 
 <details><summary>Show More</summary>
 
+`[26/04 15:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [nikosdaridis/osrs-prices-wiki](https://github.com/nikosdaridis/osrs-prices-wiki)  
+`[21/04 00:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [radzenhq/radzen-blazor](https://github.com/radzenhq/radzen-blazor)  
 `[21/04 00:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/osrs-prices-wiki](https://github.com/nikosdaridis/osrs-prices-wiki)  
 `[21/04 00:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nikosdaridis/osrs-prices-wiki](https://github.com/nikosdaridis/osrs-prices-wiki)  
 `[21/04 00:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [nikosdaridis/osrs-prices-wiki](https://github.com/nikosdaridis/osrs-prices-wiki)  
