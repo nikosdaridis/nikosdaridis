@@ -62,7 +62,6 @@
 `[06/03 16:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Trapfether/tailwind-raw-reorder](https://github.com/Trapfether/tailwind-raw-reorder)  
 `[05/03 21:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [nikosdaridis/qr-barcode-maui-blazor-hybrid](https://github.com/nikosdaridis/qr-barcode-maui-blazor-hybrid)  
 `[02/03 12:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dimonovdd/Xamarin.MediaGallery](https://github.com/dimonovdd/Xamarin.MediaGallery)  
-`[02/03 09:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [CommunityToolkit/Maui](https://github.com/CommunityToolkit/Maui)  
 
 </details>
 <!--END_SECTION:activity-->
