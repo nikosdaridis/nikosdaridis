@@ -55,7 +55,6 @@
 `[06/04 12:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/qr-barcode-maui-blazor-hybrid](https://github.com/nikosdaridis/qr-barcode-maui-blazor-hybrid)  
 `[22/03 14:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/github-activity-readme](https://github.com/nikosdaridis/github-activity-readme)  
 `[21/03 20:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [nikosdaridis/qr-barcode-maui-blazor-hybrid](https://github.com/nikosdaridis/qr-barcode-maui-blazor-hybrid)  
-`[10/03 11:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/nikosdaridis.github.io](https://github.com/nikosdaridis/nikosdaridis.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
