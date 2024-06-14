@@ -27,9 +27,19 @@
 <h1 align="center"><b>GitHub Activity</b></h1>
 
 <!--START_SECTION:activity-->
+`[14/06 08:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/osrs-prices-wiki](https://github.com/nikosdaridis/osrs-prices-wiki)  
+`[14/06 08:19]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//nikosdaridis/osrs-prices-wiki/pull/3 'Bump tailwindcss from 3.4.3 to 3.4.4 in /Server') in [nikosdaridis/osrs-prices-wiki](https://github.com/nikosdaridis/osrs-prices-wiki)  
+`[14/06 08:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/osrs-prices-wiki](https://github.com/nikosdaridis/osrs-prices-wiki)  
+`[14/06 08:18]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//nikosdaridis/osrs-prices-wiki/pull/2 'Bump uglify-js from 3.17.4 to 3.18.0 in /Server') in [nikosdaridis/osrs-prices-wiki](https://github.com/nikosdaridis/osrs-prices-wiki)  
+`[14/06 08:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [nikosdaridis/osrs-prices-wiki](https://github.com/nikosdaridis/osrs-prices-wiki)  
+`[14/06 07:19]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//nikosdaridis/osrs-prices-wiki/pull/1 'Bump braces from 3.0.2 to 3.0.3 in /Server') in [nikosdaridis/osrs-prices-wiki](https://github.com/nikosdaridis/osrs-prices-wiki)  
+`[14/06 07:17]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1`](https://github.com//nikosdaridis/osrs-prices-wiki/pull/1 'Bump braces from 3.0.2 to 3.0.3 in /Server') in [nikosdaridis/osrs-prices-wiki](https://github.com/nikosdaridis/osrs-prices-wiki)  
 `[10/06 10:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/ebanking-asp-net-core](https://github.com/nikosdaridis/ebanking-asp-net-core)  
 `[04/06 22:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [nikosdaridis/osrs-prices-wiki](https://github.com/nikosdaridis/osrs-prices-wiki)  
 `[04/06 19:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jstedfast/MailKit](https://github.com/jstedfast/MailKit)  
+
+<details><summary>Show More</summary>
+
 `[30/05 19:18]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.3.7`](https://github.com/nikosdaridis/colorpal/releases/tag/v1.3.7) in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
 `[30/05 19:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
 `[26/05 17:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [nikosdaridis/nikosdaridis.github.io](https://github.com/nikosdaridis/nikosdaridis.github.io)  
@@ -37,9 +47,6 @@
 `[17/05 20:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [nikosdaridis/qr-barcode-maui-blazor-hybrid](https://github.com/nikosdaridis/qr-barcode-maui-blazor-hybrid)  
 `[15/05 19:13]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#44`](https://github.com//lishewen/Blazor.ECharts/issues/44 'Update dataZoom.Start and dataZoom.End to support decimal precision') in [lishewen/Blazor.ECharts](https://github.com/lishewen/Blazor.ECharts)  
 `[15/05 18:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [nikosdaridis/osrs-prices-wiki](https://github.com/nikosdaridis/osrs-prices-wiki)  
-
-<details><summary>Show More</summary>
-
 `[01/05 14:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lishewen/Blazor.ECharts](https://github.com/lishewen/Blazor.ECharts)  
 `[01/05 14:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [nikosdaridis/osrs-prices-wiki](https://github.com/nikosdaridis/osrs-prices-wiki)  
 `[27/04 22:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apache/echarts](https://github.com/apache/echarts)  
