@@ -97,7 +97,6 @@
 `[21/04 00:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [nikosdaridis/osrs-prices-wiki](https://github.com/nikosdaridis/osrs-prices-wiki)  
 `[20/04 20:54]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/nikosdaridis/osrs-prices-wiki/tree/main) in [nikosdaridis/osrs-prices-wiki](https://github.com/nikosdaridis/osrs-prices-wiki)  
 `[20/04 20:54]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [nikosdaridis/osrs-prices-wiki](https://github.com/nikosdaridis/osrs-prices-wiki)  
-`[18/04 20:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/qr-barcode-maui-blazor-hybrid](https://github.com/nikosdaridis/qr-barcode-maui-blazor-hybrid)  
 
 </details>
 <!--END_SECTION:activity-->
