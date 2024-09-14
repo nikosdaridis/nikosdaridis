@@ -78,7 +78,6 @@
 `[14/06 08:18]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//nikosdaridis/osrs-prices-wiki/pull/2 'Bump uglify-js from 3.17.4 to 3.18.0 in /Server') in [nikosdaridis/osrs-prices-wiki](https://github.com/nikosdaridis/osrs-prices-wiki)  
 `[14/06 08:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [nikosdaridis/osrs-prices-wiki](https://github.com/nikosdaridis/osrs-prices-wiki)  
 `[14/06 07:19]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//nikosdaridis/osrs-prices-wiki/pull/1 'Bump braces from 3.0.2 to 3.0.3 in /Server') in [nikosdaridis/osrs-prices-wiki](https://github.com/nikosdaridis/osrs-prices-wiki)  
-`[14/06 07:17]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1`](https://github.com//nikosdaridis/osrs-prices-wiki/pull/1 'Bump braces from 3.0.2 to 3.0.3 in /Server') in [nikosdaridis/osrs-prices-wiki](https://github.com/nikosdaridis/osrs-prices-wiki)  
 
 </details>
 <!--END_SECTION:activity-->
