@@ -47,7 +47,6 @@
 `[26/09 14:41]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`1.3.7`](https://github.com/nikosdaridis/colorpal/tree/1.3.7) in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
 `[26/09 14:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/colorpal](https://github.com/nikosdaridis/colorpal)  
 `[26/09 14:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)  
-`[26/09 08:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [denoland/deno](https://github.com/denoland/deno)  
 
 </details>
 <!--END_SECTION:activity-->
