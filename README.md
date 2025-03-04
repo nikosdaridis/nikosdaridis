@@ -42,9 +42,6 @@
 
 `[03/02 18:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#64`](https://github.com//nikosdaridis/colorpal-blazor-browser-extension/pull/64 'Bump tailwindcss from 4.0.1 to 4.0.3 in /ColorPal') in [nikosdaridis/colorpal-blazor-browser-extension](https://github.com/nikosdaridis/colorpal-blazor-browser-extension)  
 `[03/02 18:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/colorpal-blazor-browser-extension](https://github.com/nikosdaridis/colorpal-blazor-browser-extension)  
-`[02/02 14:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/qr-barcode-maui-blazor-hybrid](https://github.com/nikosdaridis/qr-barcode-maui-blazor-hybrid)  
-`[02/02 14:39]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#46`](https://github.com//nikosdaridis/qr-barcode-maui-blazor-hybrid/pull/46 'Bump Microsoft.Extensions.Logging.Debug from 9.0.0 to 9.0.1 in /QRBarcodeMauiBlazorHybrid') in [nikosdaridis/qr-barcode-maui-blazor-hybrid](https://github.com/nikosdaridis/qr-barcode-maui-blazor-hybrid)  
-`[02/02 14:39]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#47`](https://github.com//nikosdaridis/qr-barcode-maui-blazor-hybrid/pull/47 'Bump Microsoft.Maui.Controls from 9.0.22 to 9.0.30 in /QRBarcodeMauiBlazorHybrid') in [nikosdaridis/qr-barcode-maui-blazor-hybrid](https://github.com/nikosdaridis/qr-barcode-maui-blazor-hybrid)  
 
 </details>
 <!--END_SECTION:activity-->
