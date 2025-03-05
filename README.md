@@ -35,13 +35,6 @@
 `[05/02 22:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jbogard/MediatR](https://github.com/jbogard/MediatR)  
 `[04/02 12:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/qr-barcode-maui-blazor-hybrid](https://github.com/nikosdaridis/qr-barcode-maui-blazor-hybrid)  
 `[04/02 12:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/osrs-prices-wiki](https://github.com/nikosdaridis/osrs-prices-wiki)  
-`[03/02 18:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/colorpal-blazor-browser-extension](https://github.com/nikosdaridis/colorpal-blazor-browser-extension)  
-`[03/02 18:13]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/npm_and_yarn/ColorPal/tailwindcss-4.0.3` from [nikosdaridis/colorpal-blazor-browser-extension](https://github.com/nikosdaridis/colorpal-blazor-browser-extension)  
-
-<details><summary>Show More</summary>
-
-`[03/02 18:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#64`](https://github.com//nikosdaridis/colorpal-blazor-browser-extension/pull/64 'Bump tailwindcss from 4.0.1 to 4.0.3 in /ColorPal') in [nikosdaridis/colorpal-blazor-browser-extension](https://github.com/nikosdaridis/colorpal-blazor-browser-extension)  
-`[03/02 18:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/colorpal-blazor-browser-extension](https://github.com/nikosdaridis/colorpal-blazor-browser-extension)  
 
 </details>
 <!--END_SECTION:activity-->
