@@ -32,7 +32,6 @@
 `[06/02 00:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [JasperFx/marten](https://github.com/JasperFx/marten)  
 `[05/02 23:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MapsterMapper/Mapster](https://github.com/MapsterMapper/Mapster)  
 `[05/02 23:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [CarterCommunity/Carter](https://github.com/CarterCommunity/Carter)  
-`[05/02 22:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jbogard/MediatR](https://github.com/jbogard/MediatR)  
 
 </details>
 <!--END_SECTION:activity-->
