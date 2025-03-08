@@ -29,9 +29,6 @@
 <!--START_SECTION:activity-->
 `[11/02 20:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Xabaril/AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks)  
 `[07/02 22:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FluentValidation/FluentValidation](https://github.com/FluentValidation/FluentValidation)  
-`[06/02 00:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [JasperFx/marten](https://github.com/JasperFx/marten)  
-`[05/02 23:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MapsterMapper/Mapster](https://github.com/MapsterMapper/Mapster)  
-`[05/02 23:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [CarterCommunity/Carter](https://github.com/CarterCommunity/Carter)  
 
 </details>
 <!--END_SECTION:activity-->
