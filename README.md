@@ -17,7 +17,6 @@
 <details><summary>Show More</summary>
 
 `[14/03 17:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/bybit-perpetuals-trading-bot](https://github.com/nikosdaridis/bybit-perpetuals-trading-bot)  
-`[09/03 16:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [nikosdaridis/qr-barcode-maui-blazor-hybrid](https://github.com/nikosdaridis/qr-barcode-maui-blazor-hybrid)  
 
 </details>
 <!--END_SECTION:activity-->
